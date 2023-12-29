@@ -1,1 +1,22 @@
 /* Start coding here */
+body {
+    margin: 0;
+}
+.container{
+    height: 100vh;
+    width: auto;
+    padding: 50px;
+    background-color: lightgrey;
+}
+.box-1{
+    height: 25vh;
+    background-color: orange;
+}
+.box-2{
+    height: 25vh;
+    background-color: khaki;
+}
+.box-3{
+    height: 50vh;
+    background-color: cornflowerblue;
+}
